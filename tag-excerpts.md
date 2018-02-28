@@ -1,0 +1,12 @@
+Tags are the de-facto map of allowed (and implicitly disallowed by omission) topics on your site. That’s why the first two pages of tags should have excellent tag wiki excerpts at a minimum. If they have great, complete [tag wikis][1], that’s even better, but you have to crawl before you can walk. Focusing on the ~500 character excerpt is a simple way to get started — and that text is surfaced in a bunch of places on the site, including tag mouseovers.
+
+##Guidelines for writing useful tag excerpts 
+
+1. **The excerpt is the elevator pitch for the tag.** You only have ~500 plain text characters for the excerpt, so don’t feel obligated to cover everything in it! Save that for the 30,000+ character Markdown tag wiki. The excerpt should define the shared quality of questions containing this tag — boiled down to a few short sentences.
+2. **Avoid generically defining the concept behind a tag**, unless it is highly specialized. The “email” tag, for example, does *not* need to explain what email is. I think we can safely assume most internet users know what email is; there’s no value in a boilerplate explanation of email to anyone.
+3. **Concentrate on what a tag means to *your* community.** For “email” on Server Fault, mention the server aspects of email including POP3, SMTP, IMAP, and server software. For “email” on Super User, mention desktop email clients and explicitly exclude webmail, as that would be more appropriate for http://webapps.stackexchange.com.
+4. **Provide basic guidance on when to use the tag.** In other words, *what kinds of questions should have this tag?* Tags only exist as ways of organizing questions, so if we don’t provide proper guidance on which questions *need* this tag, they won’t get tagged at all, rendering the tag excerpt moot. Think of it as a sales pitch: in a room full of tags screaming “pick me!”, what would convince a question asker to select your tag?
+5. **Some tags are common knowledge.** Most tags require a bit of explanation in the excerpt, even if it’s only 3 or 4 words. But if the tag is common knowledge — that is, if you *walked up to any random person on the street and said the tag word to them*, and they would know what you were talking about — then don’t bother explaining the tag at all. Stick to usage of the tag within your community in the excerpt.
+
+
+  [1]: http://blog.stackoverflow.com/2010/08/tag-folksonomy-and-tag-synonyms/

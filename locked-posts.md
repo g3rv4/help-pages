@@ -1,47 +1,48 @@
 Una publicación que está "bloqueada" no puede ser modificada de ninguna manera. El bloqueo impide...
 
-- ...voting on the post (including close/reopen votes for questions)
-- ...editing
-- ...commenting
-- ...answering (for questions)
-- ...flagging (though "in need of moderator intervention" flags are still allowed, except in the case of Historical Significance locks - see below)
+- ...votar en la publicación (incluyendo votar para cerrar/reabrir preguntas)
+- ...editar
+- ...comentar
+- ...responder (para preguntas)
+- ...reportar (aunque "es necesario la  intervención de un moderador" los reportes todavía están permitidos, excepto en el caso de los bloqueos con Significado Histórico - ver a continuación)
 
-##Who can lock a post?
+##¿Quién puede bloquear una publicación?
 
-[Site moderators](/help/site-moderators) can apply specific types of locks to questions and answers. 
+[Los moderadores del sitio](/help/site-moderators) pueden aplicar tipos específicos de bloqueos a las preguntas y respuestas.
 
-Also, [the system itself](https://meta.stackexchange.com/questions/19738/who-is-the-community-user) will lock posts in certain situations:
+Además, [el sistema en sí](https://meta.stackexchange.com/questions/19738/who-is-the-community-user) bloqueará las publicaciones en ciertas situaciones:
 
-- if the post is deleted via ["spam" or "abusive" flags](/help/privileges/flag-posts).
-- if the post is migrated to another site.
-- if the post was migrated *to* the current site, and then [rejected](https://meta.stackexchange.com/questions/10249/what-is-migration-and-how-does-it-work).
-- if a question was merged into another question, the answers will be moved and the source question will be locked.
+- si la publicación es eliminada a través de un  [reporte  como "spam" o "abusivo"](/help/privileges/flag-posts).
+- si la publicación es migrada a otro sitio.
+- si la publicación se migró *al* sitio actual, y luego es [rechazada](https://meta.stackexchange.com/questions/10249/what-is-migration-and-how-does-it-work).
+- si una pregunta se fusionó con otra, las respuestas se moverán y la pregunta de origen se bloqueará.
 
-##How long do posts stay locked?
+##¿Cuánto tiempo permanecen bloqueadas las publicaciones?
 
-This depends on why it was locked to begin with. 
+Esto depende de por qué estaba bloqueado para empezar.
 
-- When a moderator locks a post they're required to select how long the lock should remain in place. The options are: 1 hour, 1 day, 1 week, permanent. At the end of this time, the system will automatically unlock it.
-- When the system locks a post it stays locked indefinitely - only a moderator can unlock it. 
+- Cuando un moderador bloquea una publicación debe seleccionar el tiempo que el bloqueo debe permanecer en su lugar. Las opciones son: 1 hora, 1 día, 1 semana, permanente. Al final de este tiempo, el sistema lo desbloqueará automáticamente.
 
-A moderator can manually unlock a locked post at any time if they deem it necessary.
+- Cuando el sistema bloquea una publicación, permanece bloqueada indefinidamente; solo un moderador puede desbloquearla. 
 
-##When should a post be locked?
+Un moderador puede desbloquear manualmente una publicación bloqueada en cualquier momento si lo considera necesario.
 
-As a general rule, *temporary* locks should be used whenever modifications to a post are causing serious problems on the site. For example:
+##¿Cuándo se debe bloquear una publicación?
 
-- [Edit wars](https://stackoverflow.blog/2009/03/04/the-great-edit-wars/)
-- Extended bickering in comments (but see: [a guide to moderating comments](https://meta.stackexchange.com/questions/237978/a-guide-to-moderating-comments))
-- A controversial post that is under discussion on meta
+Como regla general, se deben usar bloqueos *temporales* cuando las modificaciones a una publicación estén causando problemas serios en el sitio. Por ejemplo:
 
-*Permanent* locks should almost never be used, with the exception of those imposed by the system itself. There are two exceptions:
+- [Guerras de ediciones](https://stackoverflow.blog/2009/03/04/the-great-edit-wars/)
+- Disputas extendidas en los comentarios (vea tambien: [una guía para moderar los comentarios](https://meta.stackexchange.com/questions/237978/a-guide-to-moderating-comments))
+- Una publicación polémica que está en discusión en el sitio meta
 
-1. An extremely popular question which is now considered inappropriate for the site may be locked for "Historical Significance": this alters the appearance of the question, automatically locks all *answers* as well, and disables flagging completely. This lock should be reserved for cases where a cherished cultural artifact would otherwise be deleted; **do not** use it for any other purpose.
+Los bloqueos *permanentes* casi nunca deberían usarse, con la excepción de los impuestos por el sistema en sí. Hay dos excepciones:
 
-2. A "wiki" is a question whose answers [can be edited by low-reputation users](/help/privileges/edit-community-wiki), attributed to multiple authors, and do not grant reputation to the original author. They're occasionally useful in cases where information *must* be compiled by multiple authors (for example, a list of resources or documentation for the site itself); in these cases, locking the question both prevents it from being closed and prevents further answers from being added.
+1. Una pregunta extremadamente popular que ahora se considera inapropiada para el sitio puede estar bloqueada por "Significado Histórico": esto altera la apariencia de la pregunta, también bloquea automáticamente todas las *respuestas* y deshabilita los reportes por completo. Este bloqueo debe reservarse para los casos en que de otro modo se eliminaría un artefacto cultural preciado; **no** lo use para ningún otro propósito.
 
-###See also:
+2. Una "wiki" es una pregunta cuyas respuestas [pueden ser editadas por usuarios de baja reputación](/help/privileges/edit-community-wiki), atribuidas a múltiples autores, y no otorgan reputación al autor original. En ocasiones, son útiles en casos donde la información *debe* ser compilada por múltiples autores (por ejemplo, una lista de recursos o documentación para el sitio en sí); en estos casos, bloquear la pregunta evita que se cierre y evita que se agreguen más respuestas.
 
-- [What is a "locked" post?](https://meta.stackexchange.com/questions/22228/what-is-a-locked-post) on Meta Stack Exchange
-- [What is a historical lock, and what is it used for?](https://meta.stackexchange.com/questions/126587/what-is-a-historical-lock-and-what-is-it-used-for) on Meta Stack Exchange
+###Vea también:
+
+- [What is a "locked" post?](https://meta.stackexchange.com/questions/22228/what-is-a-locked-post) en Meta Stack Exchange
+- [What is a historical lock, and what is it used for?](https://meta.stackexchange.com/questions/126587/what-is-a-historical-lock-and-what-is-it-used-for) en Meta Stack Exchange
 - [Advanced search options](https://meta.stackexchange.com/help/searching)

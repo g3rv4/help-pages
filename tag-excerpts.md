@@ -1,4 +1,4 @@
-Las etiquetas son el mapa de-facto de los temas permitidos (e implícitamente desautorizados por omisión) en su sitio. Es por eso que las primeras dos páginas de etiquetas deberían tener excelentes extractos de etiquetas wiki como mínimo. Si se tiene una [wiki de etiqueta] [1] muy buena, completa, eso es incluso lo mejor, pero tienes que gatear antes de poder caminar. Centrarse en el extracto de ~500 caracteres es una forma sencilla de comenzar, y ese texto aparece en varios lugares del sitio, incluidos los mouseover de etiqueta.
+Las etiquetas son una buena guía de los temas permitidos (e implícitamente desautorizados por omisión) en el sitio. Es por eso que las primeras dos páginas de etiquetas deberían tener excelentes extractos de etiquetas wiki como mínimo. Si se tiene una [wiki de etiqueta] [1] muy buena, completa, eso es incluso lo mejor, pero tienes que gatear antes de poder caminar. Centrarse en el extracto de ~500 caracteres es una forma sencilla de comenzar, y ese texto aparece en varios lugares del sitio, incluidos los mouseover de etiqueta.
 
 ##Pautas para escribir estractos de etiquetas útiles
 

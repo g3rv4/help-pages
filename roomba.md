@@ -1,6 +1,6 @@
 [El usuario Comunidad][1] borrará automáticamente preguntas viejas o abandonadas en las siguientes circunstancias:
 
-**Si la pregunta tiene más de `30` días de antiguedad y...**
+**Si la pregunta tiene más de `30` días de antigüedad y...**
 
 - puntuación de −1 o menor
 - no tiene ninguna respuesta

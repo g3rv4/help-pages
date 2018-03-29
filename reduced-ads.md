@@ -25,5 +25,5 @@ Queremos enfatizar que sólo debes rehabilitar la publicidad si _tú_ quieres ve
   
 
 
-  [1]: http://i.stack.imgur.com/9kupb.png
-  [2]: http://i.stack.imgur.com/6b6yZ.png
+  [1]: https://i.stack.imgur.com/9kupb.png
+  [2]: https://i.stack.imgur.com/uhYju.png

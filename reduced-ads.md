@@ -1,29 +1,26 @@
-### ¿Qué es anuncios reducidos?
+### ¿En qué consiste ver menos anuncios?
 
-Como una cortesía para nuestros usuarios ávidos, automáticamente desactivamos cierta publicidad cuando estos alcanzan cierto nivel de reputación.
+Como cortesía hacia nuestros usuarios más ávidos, automáticamente les desactivamos ciertos anuncios cuando alcanzan este nivel de reputación.
 
 ### ¿Cómo sé que está funcionando?
 
-Después de que obtuviste este privilegio, los dos anuncios publicitarios del tipo "tabla de clasificación" serán suprimidos en las páginas de la preguntas cuando hayas iniciado sesión.
+Al obtener este privilegio, los dos anuncios centrales son suprimidos en las páginas de la preguntas cuando navegues con la sesión iniciada.
 
 ![zonas de anuncios][1]
 
-Las áreas en rojo son la publicidad tabla de clasificación. Las áreas grises son la publicidad de barra lateral, los cuales permanecerán visibles.
+Las áreas en rojo corresponden a la publicidad central. Las áreas grises son la publicidad de la barra lateral, que permanecerán visibles.
 
 ### ¿Qué hay acerca de los sitios Meta?
 
-Los sitios Meta no tienen publicidad así que este privilegio no es relevante para ellos.
+Los sitios Meta no tienen publicidad, así que este privilegio no es relevante allí.
 
-### ¿Pero que tal si yo todavía deseo ver esa publicidad?
+### Pero, ¿y si yo todavía deseo ver esa publicidad?
 
-Si tu decides qeu realmente quieres ver la publicidad porque esta es útil o interesantes para _tí_, entonces puedes inhabilitar este privilegio en tu perfil. Haz clic en "Editar Perfil y Configuración", luego haz clic en "Preferencias". Habrá una opción para rehabilitar esta publicidad, si lo deseas:
+Si tú decides que realmente quieres ver la publicidad porque esta es útil o interesante para _ti_, entonces puedes desactivar este privilegio en tu perfil. Haz clic en "Editar Perfil y Configuración", luego haz clic en "Preferencias". Habrá una opción para volver a habilitar esta publicidad, si lo deseas:
 
-[![inhabilitar/rehabilitar publicidad][2]][2]
+![inhabilitar/rehabilitar publicidad][2]
 
-Queremos enfatizar que sólo debes rehabilitar la publicidad si _tú_ quieres verla, no porque estés intentando apoyarnos financieramente. De hecho, no nos hace ningún bien mostrarte publicidad de productos que no deseas comprar o contratar. Así que toma la decisión que sea mejor par tí ya que esa es lo mejor para nosotros también.
-
-  
-
+Queremos enfatizar que solo debes volver a habilitar la publicidad si _tú_ quieres verla, no porque estés intentando apoyarnos financieramente. De hecho, no nos hace ningún bien mostrarte publicidad de productos que no deseas comprar o contratar. Así que toma la decisión que sea mejor para ti: eso será lo mejor para nosotros también.
 
   [1]: https://i.stack.imgur.com/9kupb.png
   [2]: https://i.stack.imgur.com/uhYju.png

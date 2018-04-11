@@ -10,8 +10,7 @@ href="http://blog.stackoverflow.com/2010/07/moderator-pro-tempore/">moderadores 
 <li>estén dispuestos a ejercer un poco de moderación ligera pero firme, a fin de mantener la comunidad en la buena dirección y resolver disputas (con suerte) poco comunes y excepciones</li>
 </ul>
 
-<p>Además de eso, todos los moderadores deben aceptar y cumplir nuestro <a
-href="/legal/moderator-agreement">acuerdo del moderador</a>.</p>
+<p>Además de eso, todos los moderadores deben aceptar y cumplir nuestro <a href="/legal/moderator-agreement">acuerdo del moderador</a>.</p>
 
 <h3>Los moderadores son controladores de excepciones humanos, están ahí para hacer frente a ciertas condiciones excepcionales que de otra forma podrían comprometer el buen funcionamiento de la comunidad.</h3>
 
@@ -25,7 +24,7 @@ href="/help/flagging">repórtalo</a>! Esta es la tarea principal de un moderador
 <ul>
 <li>Los votos de los moderadores son vinculantes. En cualquier sitio en el que se puede votar — cerrar, reabrir, borrar, desborrar, contenido ofensivo, migración, etc — el umbral se alcanzará y la acción correspondiente se realizará inmediatamente si un solo moderador emite un voto.</li>
 <li>Los moderadores pueden bloquear publicaciones. Las publicaciones bloqueadas no pueden ser votadas ni cambiadas de ninguna manera.</li>
-<li>Los moderadores pueden <a href="http://blog.stackoverflow.com/2010/06/new-protectedquestion-status/">proteger preguntas</a>. Las preguntas protegidas sólo admiten respuestas de usuarios con más de 10 puntos de reputación.</li>
+<li>Los moderadores pueden <a href="http://blog.stackoverflow.com/2010/06/07/new-protected-question-status/">proteger preguntas</a>. Las preguntas protegidas sólo admiten respuestas de usuarios con más de 10 puntos de reputación.</li>
 <li>Los moderadores pueden ver más datos en el sistema, incluyendo estadísticas de voto (pero no ‘quién ha votado en esta publicación’) e información de perfil de usuario.</li>
 <li>Los moderadores pueden poner usuarios en <a
 href="http://blog.stackoverflow.com/2009/04/a-day-in-the-penalty-box/">suspensión temporal</a>, y borrar usuarios si es necesario.</li>

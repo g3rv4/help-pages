@@ -2,7 +2,7 @@
 
 <p><b>Sé honesto.</b></p>
 
-<p> Sobre todo, sé honesto. Si ves información errónea, <a href="/privileges/vote-down">vota en contra de la respuesta</a>. Agrega <a href="/privileges/comment">comentarios</a>  indicando la razón de porque es así, específicamente, lo que esta mal.  Provee una respuesta mejor.  Y por último, <a href="/privileges/edit">edita y mejora</a> las preguntas y respuestas existentes. Al hacer estas cosas, nos estas ayudando a mantener a Stack Overflow en Español en un gran lugar para compartir nuestro conocimiento.
+<p> Sobre todo, sé honesto. Si ves información errónea, <a href="/privileges/vote-down">vota en contra de la respuesta</a>. Agrega <a href="/privileges/comment">comentarios</a>  indicando la razón de porque es así, específicamente, lo que esta mal.  Provee una respuesta mejor.  Y por último, <a href="/privileges/edit">edita y mejora</a> las preguntas y respuestas existentes. Al hacer estas cosas, nos estas ayudando a mantener a Stack Overflow en español en un gran lugar para compartir nuestro conocimiento.
 </p>
 
 <p>Mientras haces todas estas cosas, también...</p>

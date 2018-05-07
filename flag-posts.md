@@ -18,10 +18,10 @@ Los reportes son una forma de llamar la atención de la comunidad sobre algún c
 
 Si alguna vez estas confundido sobre el que razón para elegir para reportar, por favor sigue los siguientes enlaces:
 
-* [Guía de uso para spam grosero/abusivo][spam-off-faq]
-* [Guía de uso para no es una respuesta][not-ans-faq]
-* [Guía de reporte fuera de tema][off-topic-faq]
-* [Guía de uso par muy baja calidad][vlq-faq]
+* [Guía de uso para *spam* y *grosero/abusivo*][spam-off-faq]
+* [Guía de uso para *no es una respuesta*][not-ans-faq]
+* [Guía de reporte *fuera de tema*][off-topic-faq]
+* [Guía de uso para *muy baja calidad*][vlq-faq]
 * [Guía para comentar reportes][comment-faq]
 
 ### ¿Cuándo debo reportar?
@@ -51,7 +51,7 @@ Los reportes de spam y abusivos están diseñados para eliminar automáticamente
 Además de traer el comentario a la atención de los moderadores, un número suficiente de reportes en un solo comentario hará que se borre automáticamente. El número de indicadores necesarios para su eliminación varía en función del número de votos en el comentario, así como el contenido del comentario en sí.
 
 
-### ¿Qué pasa cuando reporto algo como necesita la atención de un ♦moderador?
+### ¿Qué pasa cuando reporto algo como *necesita la atención de un moderador ♦* ?
 
 Se te solicita que introduzcas un comentario explicando claramente cuál es el problema. Después de eso, estos reportes de moderador van a una cola especial de alta prioridad visible a todos los moderadores. (Los usuarios con el privilegio Herramientas de Moderador no pueden ver estos reportes.) Tomamos muy en serio los reportes de moderador; ¡puedes estar seguro de que todos están en seguimiento!
 
@@ -78,7 +78,7 @@ Puedes ver el resultado de tus reportes anteriores en cualquier momento haciendo
 
 ### ¿Cuántas reportes tengo?
 
-Cuando comienzas, tienes asignados 10 reportes por día. Este número puede aumentar a un máximo de 100 reportes por día:
+Cuando comienzas, tienes asignados **10** reportes por día. Este número puede aumentar a un máximo de **100** reportes por día:
 
 - Se obtiene bonificación de reportes por cada 2000 puntos de reputación.
 - Se le otorga una bonificación de reportes adicionales cuando se reporta correctamente - una bonificación por cada diez reportes útiles netos (reportes útiles menos reportes rechazados).
@@ -95,5 +95,5 @@ Cuando comienzas, tienes asignados 10 reportes por día. Este número puede aume
   [retract-flag]: http://i.stack.imgur.com/3aoe2.png
 
 [1]: https://i.stack.imgur.com/JxZu0.png
-  [2]: https://i.stack.imgur.com/jwqSU.png
+  [2]: https://i.stack.imgur.com/G5Axv.png
   [3]: https://i.stack.imgur.com/N5Dd2.png

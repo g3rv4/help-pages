@@ -8,7 +8,7 @@ Las tres acciones más importantes en Stack Overflow son [preguntar][1], [contes
 
 La reputación es una medida aproximada de cuánto confía en ti la comunidad; se gana convenciendo a tus iguales (los otros miembros de [SOes](https://es.stackoverflow.com/)) de que sabes de lo que estás hablando.
 
-A medida que ganes más reputación ganes, obtendrás más [privilegios][4] y  podrás acceder a más herramientas del sitio. Cuando llegues al mayor nivel de privilegios tendrás acceso a [muchas de las herramientas][5] disponibles para los [moderadores del sitio][6]. Esto tiene una intención claro: nosotros no hacemos funcionar el sitio, ¡la comunidad es la que lo hace!
+A medida que ganes más reputación obtendrás más [privilegios][4] y  podrás acceder a más herramientas del sitio. Cuando llegues al mayor nivel de privilegios tendrás acceso a [muchas de las herramientas][5] disponibles para los [moderadores del sitio][6]. Esto tiene una intención claro: nosotros no hacemos funcionar el sitio, ¡la comunidad es la que lo hace!
 
 ### ¿Cómo gano reputación?
 

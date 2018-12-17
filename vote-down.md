@@ -8,7 +8,7 @@ La emisión de votos negativos, también conocida como "votar en contra", es la 
 
 Utiliza tu voto negativo cada vez que encuentres una pregunta o respuesta atrozmente descuidada, poco rigurosa, sin ningún esfuerzo empleado, o que es clara, pero quizás peligrosamente incorrecta.
 
-Tienes un número limitado de votos por día, y además votar negativo en una respuesta te cuesta un poco de reputación. Utiliza estos votos de manera sabia.
+Tienes un número limitado de votos por día y además votar negativo en una respuesta te cuesta un poco de reputación. Utiliza estos votos de manera sabia.
 
 ### ¿Cómo puedo votar negativo?
 
@@ -18,11 +18,11 @@ Puedes deshacer tu voto haciendo click en el mismo botón de votación, pero só
 
 ### ¿Qué sucede cuando voto negativo?
 
-Cuando votas negativo, estás empujando esa publicación hacia abajo en la página, así que será vista por menos gente. Votar negativo en las publicaciones no es algo que queremos que tomes a la ligera, por lo que no es gratuito.
+Cuando votas negativo, estás empujando esa publicación hacia abajo en la página, así que será vista por menos gente. Votar negativo en las publicaciones no es algo que queramos que tomes a la ligera, por lo que no es gratuito.
 
 * Los votos negativos quitan **2** de reputación al dueño de la publicación.
-* Los votos negativos te quitan **1** de reputación a ti, el votante.
-* Los votos negativos en las preguntas son **libres**. ([_¿Por qué?_][1])
+* Los votos negativos en las *respuestas* te quitan **1** de reputación a ti, el votante.
+* Los votos negativos en las *preguntas* son **libres**. ([_¿Por qué?_][1])
 * Puedes votar **30** veces por día (UTC), además obtienes **10** votos adicionales solamente para las preguntas. ([_¿Por qué?_][2])
 
 ### ¿Cuáles son las alternativas al voto negativo?
@@ -32,7 +32,7 @@ El [privilegio de voto positivo][3] viene primero porque es en lo primero que de
 En vez de votar negativo:
 
 * Si el mensaje es spam u ofensivo, [**repórtalo**][4].
-* Si la pregunta es duplicada o no relacionado a la temática del sitio, [**repórtala** para la atención de un moderador][4].
+* Si la pregunta es duplicada o no relacionada a la temática del sitio, [**repórtala** para la atención de un moderador][4].
 * Si algo está equivocado, por favor [**añade un comentario**][5] o [**edita** la publicación][6] para corregirlo.
 
 

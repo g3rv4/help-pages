@@ -1,51 +1,50 @@
-# What are declined flags, and what should I do about them?
+# ¿Qué son los reportes rechazados y qué debo hacer con ellos?
 
-### What is a declined flag?
+## ¿Qué es un reporte rechazado?
 
-"Declined" means that a moderator (or other trusted members of the site) declined to act on [a flag](/help/privileges/flag-posts) that you've raised in response to a problem that you observed.
+"Rechazado" significa que un moderador (u otros miembros de confianza en la comunidad) han decidido no actuar sobre [un reporte](/help/privileges/flag-posts) que has realizado en respuesta a un problema que observaste.
 
-### Why might one of my flags be declined?
+## ¿Por qué se rechazó uno de mis reportes?
 
-There are numerous reasons why a flag might be declined:
+Hay numerosos motivos por los que un reporte puede ser rechazado:
 
-- Others might disagree that the problem you identified exists at all (e.g., you suggested that a question should be closed as Off Topic, but the question concerns one of [the official topics for the site](/help/on-topic))
-- The problem may have been one that you could've easily handled yourself (e.g., you flagged an incorrect answer that you could've signaled by downvoting or corrected by editing)
-- The problem may have already been corrected by the time your flag was reviewed (e.g., the author edited it after you raised the flag)
-- The problem may be subtle, and those reviewing the flagged content simply missed seeing it (e.g., you flagged a comment as abusive for attempting to [rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ), but the moderator handling the flag neglected to click the link.)
+- Otros usuarios pueden no estar de acuerdo con que el problema identificado existe (p. ej. sugeriste que una pregunta se cerrara como No Relacionado, pero la pregunta trata sobre uno de los [temas pertinentes a la comunidad](/help/on-topic)).
+- El problema podrías haberlo corregido tú directamente (p. ej. reportaste una pregunta como incorrecta, pero podrías haberla votado negativamente o haberla corregido editándola).
+- Puede que el problema ya hubiera sido corregido cuando el reporte fue revisado (p. ej. el autor editó la publicación después de que la reportases).
+- El problema puede ser sutil, y quienes revisaron el contenido reportado simplemente no lo vieron (p. ej. marcaste un comentario como abusivo al ser un intento de [rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ), pero el moderador que revisó el reporte no clicó en el enlace).
 
-Often moderators will provide a specific reason for declining a flag. You can view these by visiting your flagging history: 
+A menudo los moderadores proporcionarán una razón específica para rechazar un reporte. Puedes verlas visitando tu historial de reportes:
 
-1. Go to [your profile page](/users/current)
-2. Click the "helpful flags" link in the Impact box on the top-right of the page (if no such link appears, then you may go directly to your flagging history by navigating to "$BaseWebsiteAddress/users/flag-summary/[id]", where [id] is your user id).
+1. Ve a [tu perfil](/users/current)
+2. Pulsa en el enlace de "reportes útiles" en la caja de Impacto que hay en la parte superior derecha de la pantalla (si no aparece ese enlace, puedes ir directamente a tu historial de reportes visitando  "$BaseWebsiteAddress/users/flag-summary/[id]", donde [id] es tu id de usuario).
 
-### What should I do when one of my flags is declined?
+## ¿Qué debo hacer cuando uno de mis reportes es rechazado?
 
-You don't *need* to do anything, but if the problem still exists you may want to. So with that in mind...
+No *tienes* que hacer nada, pero si el problema persiste puede que quieras hacer algo. Con eso en mente...
 
-1. Try to determine why the flag was declined (see above). Perhaps the folks handling it missed something... Or perhaps you did, and this is an opportunity to learn from it.
-2. Then visit the post or comment that you flagged and see if the problem remains. If the issue has been resolved or if it no longer seems important, you can move on to something else.
+1. Trata de determinar por qué el reporte fue rechazado (véase arriba). Puede que la gente que realizó la revisión pasara algo por alto... o puede que fueses tú, y ésta es una oportunidad de aprendizaje.
+2. Después visita la publicación o comentario que reportaste y comprueba si el problema persiste. Si el problema ha sido resuelto o si ya no parece importante, puedes seguir con otra cosa.
 
-If the problem still remains, think about ways in which you could solve it yourself: 
+Si el problema persiste, piensa en formas en las que podrías corregirlo:
 
-- Would [downvoting](/help/privileges/vote-down) the post be enough to warn others away from it?
-- Are you able to [edit the post](/help/editing) to correct the problem while still respecting the intentions of the author?
+- ¿Darle un [voto negativo](/help/privileges/vote-down) a esa publicación sería suficiente para avisar a otros?
+- ¿Puedes [editar la publicación](/help/editing) para corregir el problema manteniendo la intención original del autor?
 
-When you can resolve the problem yourself, then there's no need to flag - just fix it!
+Si puedes resolver el problema por tu cuenta, entonces no hay necesidad de reportar - ¡Simplemente arréglalo!
 
-If the problem is not something that you can fix on your own, and you suspect it was simply overlooked then you can raise an "in need of moderator intervention" flag and explain the problem in detail: this allows you to be much more precise in your description, and to point out any subtle issues that may not have been seen by those handling your first flag.
+Si el problema es algo que no puedes corregir por tu cuenta, y sospechas que simplemente se le pasó algo por alto a los revisores, puedes reportar con "se necesita la intervención de un moderador", explicando el problema en detalle: esto te permite dar una explicación más precisa y resaltar los problemas sutiles que podrían no haberse visto cuando se revisó el primer reporte.
 
-In cases where your flag was declined because of a disagreement between yourself and those handling it, you may [raise the issue on meta]($MetaUrl): this gives you a chance to argue your case before the entire community, and possibly persuade them to change the rules for what is allowed and appropriate. Take your time writing such a proposal, and be sure to provide examples of how the changes you wish to see would improve the site for everyone.
+En casos en los que el reporte fue rechazado por un desacuerdo entre los revisores y tú, puedes [llevar el tema a meta]($MetaUrl): esto te da una oportunidad para discutir el tema con toda la comunidad, y puede que persuadas para que se cambien las reglas sobre lo que está permitido y lo que es apropiado. Tómate tu tiempo al escribir la propuesta, y asegúrate de proporcionar ejemplos de cómo el cambio que quieres ver mejoraría el sitio para todo el mundo.
 
-### What happens if too many of my flags are declined?
+## ¿Qué ocurre si muchos de mis reportes son rechazados?
 
-If a few of your flags were declined, you may see a warning advising you to visit your flag history page and review them. This gives you an opportunity to put the advice above into action.
+Si algunos de tus reportes son rechazados, puede que veas un aviso advirtiéndote de que visites tu historial de reportes para revisarlos. Esto te da la oportunidad de poner esos consejos en práctica.
 
-If at least a quarter of 10 or more flags were declined during the past 7 days, you will be temporarily banned from raising new flags. This ban lasts up to 7 days, after which you'll be able to raise flags again; our hope is that you take this time to review your past flags along with the guidance above, and come back better informed. Remember, it's folks like you who make this whole thing work - so the better we are at working together to solve problems, the better $SiteName works for everyone!
+De diez o más de tus reportes, si al menos una cuarta parte fue rechazado en los últimos 7 días, se te bloqueará la posibilidad de crear nuevos reportes. Este bloqueo dura hasta 7 días, después de los cuales podrás volver a reportar de nuevo. Nuestra intención es que tomes este tiempo para revisar tus reportes junto a las indicaciones de esta página y así vuelvas mejor informado. Recuerda, es gente como tú la que hace que todo esto funcione - ¡cuanto más preparados estemos para resolver problemas, mejor será $SiteName para todos!
 
-### See also:
+## Más información
 
-- [The Flag Posts privilege](/help/privileges/flag-posts)
-- [Why does flag marking as helpful/declined not always correlate with moderator action?](https://meta.stackexchange.com/questions/105391/why-does-flag-marking-as-helpful-declined-not-always-correlate-with-moderator-ac)
-- [How do I properly use the “Not an Answer” flag?](https://meta.stackexchange.com/questions/185073/how-do-i-properly-use-the-not-an-answer-flag)
-- [Allow recovery from flag hellban](https://meta.stackexchange.com/questions/173878/allow-recovery-from-flag-hellban/)
-
+- [Privilegio de Reportar Publicaciones](/help/privileges/flag-posts)
+- [Why does flag marking as helpful/declined not always correlate with moderator action?](https://meta.stackexchange.com/questions/105391/why-does-flag-marking-as-helpful-declined-not-always-correlate-with-moderator-ac) <sub>¿Por qué un reporte marcado como válido/rechazado no siempre tiene que ver con la acción de un moderador?</sub>
+- [How do I properly use the “Not an Answer” flag?](https://meta.stackexchange.com/questions/185073/how-do-i-properly-use-the-not-an-answer-flag) <sub>¿Cómo usar correctamente el reporte de “No es una respuesta”</sub>
+- [Allow recovery from flag hellban](https://meta.stackexchange.com/questions/173878/allow-recovery-from-flag-hellban/) <sub>Recuperarse del infierno de los reportes bloqueados</sub>

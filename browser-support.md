@@ -1,10 +1,10 @@
-# What browsers do we support?
+# ¿Qué navegadores admitimos?
 
-Stack Overflow supports the last two stable versions of major browsers. This does not include beta/dev releases, which are not supported.
+Stack Overflow admite las dos últimas versiones estables de los principales navegadores. Esto no incluye versiones beta/dev, que no son compatibles.
 
-The browsers we support can be [visualized][1] using our [Browserlist][2] configuration string.
+Los navegadores que admitimos se pueden [visualizar][1] utilizando nuestra cadena de configuración de [Browserlist][2].
 
-If your browser isn’t in this list, it still may work, but with a degraded experience.
+Si tu navegador no está en esta lista, aún puede funcionar, pero con una experiencia degradada.
 
 
   [1]: https://browserl.ist/?q=last+2+versions%2C+not+dead%2C+not+ie+%3E+0%2C+not+op_mini+all%2C+not+baidu+%3E+0%2C+not+and_ff+%3E+0%2C+not+and_qq+%3E+0%2C+not+kaios+%3E+0%2C+not+op_mob+%3E+0%2C+not+ie_mob+%3E+0%2C+not+and_uc+%3E+0%2C+not+Samsung+%3E+0%2C+not+Android+%3E+0

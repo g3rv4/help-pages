@@ -15,7 +15,7 @@
 <blockquote>Esta pregunta ha sido preguntada antes y ya posee una respuesta. Si esas respuestas no resuelven tu pregunta, por favor edita esta pregunta para explicar cómo es diferente o pregunta una nueva pregunta.</blockquote>
 </li> 
 
-   <li><b><a href="/helpcenter/on-topic">Fuera de lugar</a></b> - cada comunidad decide cuáles temas específicos son y no son permitidos en su sitio.
+   <li><b><a href="/helpcenter/on-topic">Fuera de tema</a></b> - cada comunidad decide cuáles temas específicos son y no son permitidos en su sitio.
 
    <blockquote>Esta pregunta no parece ser sobre programación <a href="/helpcenter/on-topic">dentro del alcance definido por la comunidad</a>. Qué esta dentro y fuera de lugar no siempre es intuitivo, así que puede ser necesario  reescribir la pregunta para que encaje en el alcance de este sitio luego de revisar las guías de la comunidad.</blockquote>
    

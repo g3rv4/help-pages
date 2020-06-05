@@ -8,9 +8,9 @@ Por favor <a href="$MetaUrl/search">echa un vistazo</a> para ver si tu pregunta 
 
 <h3>Votar es diferente en Meta.</h3>
 
-Como en cualquier sitio en Stack Exchange, Mete permite a sus miembros votar en las preguntas y respuestas. Para la mayoría de las publicaciones, los votos reflejan la utilidad percibida: bien redactado, bien razonado, bien investigado/respaldado; estas publicaciones tienden a obtener mas atención y más votos a favor. Las publicaciones altamente votadas y frecuentemente vinculadas podrían convertirse en parte de las <a href="$MetaUrl/questions/tagged/faq">preguntas frecuentes</a> o codificadas como parte de las páginas de <a href="/helpcenter">Ayuda</a> del sitio.
+Como en cualquier sitio en Stack Exchange, Meta permite a sus miembros votar en las preguntas y respuestas. Para la mayoría de las publicaciones, los votos reflejan la utilidad percibida: bien redactado, bien razonado, bien investigado/respaldado; estas publicaciones tienden a obtener mas atención y más votos a favor. Las publicaciones altamente votadas y frecuentemente vinculadas podrían convertirse en parte de las <a href="$MetaUrl/questions/tagged/faq">preguntas frecuentes</a> o codificadas como parte de las páginas de <a href="/helpcenter">Ayuda</a> del sitio.
 
-<i>A diferencia</i> de un sitio normal en Stack Exchange, Meta invita a la comunidad a discutir, debatir y proponer cambios sobre la forma en que la comunidad se comporta, así también sobre cómo funciona el sitio en sí. **Sobre preguntas etiquetadas <a href="$MetaUrl/tags/feature-request">feature-request</a>, votar indica acuerdo o desacuerdo** con el cambio propuesto en lugar de solo votar por la calidad o utilidad de la pregunta en sí.
+<i>A diferencia</i> de un sitio normal en Stack Exchange, Meta invita a la comunidad a discutir, debatir y proponer cambios sobre la forma en que la comunidad se comporta, así también sobre cómo funciona el sitio en sí. **Sobre preguntas etiquetadas como <a href="$MetaUrl/tags/feature-request">característica-nueva</a>, votar indica acuerdo o desacuerdo** con el cambio propuesto en lugar de solo votar por la calidad o utilidad de la pregunta en sí.
 
 <h3>Si tienes una cuenta en $SiteName, entonces tienes una cuenta en su sitio meta.</h3>
 
@@ -25,7 +25,7 @@ En el sitio principal, te pedimos que evites utilizar [meta-etiquetas](http://bl
 Porque los sitios de meta-discusión son diferentes y sirven a multiplés propósitos, algunas meta-etiquetas están bien e incluso son obligatorias. 
 Cada pregunta en meta requieres incluir alguna de las siguientes etiquetas:
 
-* `[support]`, que indica que es una solicitud de asistencia o soporte con alguna de las funciones del sitio.
+* `[soporte]`, que indica que es una solicitud de asistencia o soporte con alguna de las funciones del sitio.
 * `[bug]`, denota un problema reproducible en el sitio que tú crees que es un error, mal funcionamiento, o error de programación.
-* `[feature-request]`, para proponer una nueva función para el sitio, o solicitar que alguna función actual sea modificada.
-* `[discussion]`, para publicaciones que no pueden tener una respuesta claramente correcta o incorrecta y son a menudo subjetivas. Si no es un bug, una solicitud de funcionalidad es probablemente una discusión. 
+* `[característica-nueva]`, para proponer una nueva función para el sitio, o solicitar que alguna función actual sea modificada.
+* `[discusión]`, para publicaciones que no pueden tener una respuesta claramente correcta o incorrecta y son a menudo subjetivas. Si no es un bug, una solicitud de funcionalidad es probablemente una discusión. 

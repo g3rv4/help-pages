@@ -29,14 +29,14 @@ En el cuerpo de tu pregunta, empieza por expandir el resumen que pusiste en el t
 
 ## Ayuda a otros a reproducir el problema
 
-No todas las preguntas se benefician del código incluido. Pero si tu problema está en el código que haz escrito, deberías incluir una parte. Pero **¡no solo copies tu programa completo!** Esto no solo es probable que te ponga en problemas si estás colocando el código de tu empleador, es probable que incluya muchos detalles irrelevantes que los lectores necesitarán ignorar cuando intenten reproducir el problema. Aquí hay algunas pautas:
+No todas las preguntas se benefician del código incluido. Pero si tu problema está en el código que has escrito, deberías incluir una parte. Pero **¡no solo copies tu programa completo!** Esto no solo es probable que te ponga en problemas si estás colocando el código de tu empleador, es probable que incluya muchos detalles irrelevantes que los lectores necesitarán ignorar cuando intenten reproducir el problema. Aquí hay algunas pautas:
 
 - Incluye solo el código suficiente para permitir a otros reproducir el problema. Para ayuda en esto, lee [Cómo crear un ejemplo Mínimo, Completo y Verificable](/help/mcve).
 - Si es posible crear un ejemplo vivo del problema al que puedas _enlazar_ (por ejemplo, en [http://sqlfiddle.com/](http://sqlfiddle.com/) o [http://jsbin.com/](http://jsbin.com/)) entonces hazlo - pero también incluye el mismo código en tu pregunta. No todos pueden acceder a sitios externos, y los enlaces se pueden quebrar con el tiempo.
 
 ### Incluye todas las etiquetas relevantes
 
-Intenta incluid una etiqueta para el lenguaje, librería y otros APIs específicos relacionados a tu pregunta. Si inicias tecleando en el campo de etiquetas, el sistema te sugerirá etiquetas que coincidan con lo que hayas tecleado - ¡asegúrate y lee la descripción brindadas a ellas para cerciorar que ellas son relevantes a la pregunta que estás formulando! Mira también: [¿Qué son las etiquetas, y cómo debería utilizarlas?](/help/tagging)
+Intenta incluir una etiqueta para el lenguaje, librería y otros APIs específicos relacionados a tu pregunta. Si inicias tecleando en el campo de etiquetas, el sistema te sugerirá etiquetas que coincidan con lo que hayas tecleado - ¡asegúrate y lee la descripción brindadas a ellas para cerciorar que ellas son relevantes a la pregunta que estás formulando! Mira también: [¿Qué son las etiquetas, y cómo debería utilizarlas?](/help/tagging)
 
 ### ¡Revisa la lectura antes de publicar!
 

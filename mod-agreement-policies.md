@@ -1,30 +1,30 @@
-# Moderator Agreement policies
+# Políticas del Acuerdo del Moderador
 
-Moderators are bound to [an agreement](/legal/moderator-agreement) that states they will
+Los moderadores están obligados a [un acuerdo](/legal/moderator-agreement) que establece que
 
-> (...) abide by all other officially announced moderator and user policies made available to [them].
+> (...) acatar todas las demás políticas de moderadores y usuarios anunciadas oficialmente que se pongan a disposición de [ellos].
 
-While there are many FAQs and community policies across the network, this statement only applies to a small collection of policies that are company-defined and network-wide. Since the Moderator Agreement is meant to be relatively static and requires moderators accept it again any time it changes, these policies are listed here and will be kept updated outside the Moderator Agreement. Should these policies change or new ones be added, moderators will be informed of those changes.
+Aunque hay muchas preguntas frecuentes y políticas de la comunidad en la red, esta declaración sólo se aplica a una pequeña colección de políticas definidas por la empresa y que se aplican a toda la red. Dado que el Acuerdo de Moderación está pensado para ser relativamente estático y requiere que los moderadores lo acepten de nuevo cada vez que cambie, estas políticas se enumeran aquí y se mantendrán actualizadas fuera del Acuerdo de Moderación. En caso de que estas políticas cambien o se añadan otras nuevas, los moderadores serán informados de esos cambios.
 
-For simplicity, this article points moderators to the official policies they're asked to abide by, excluding the [Code of Conduct](/conduct), [Terms of Service](/legal/terms-of-service), and [Privacy Policy](/legal/privacy-policy), which are listed separately in the Moderator Agreement. 
+Para simplificar, este artículo señala a los moderadores las políticas oficiales que se les pide que cumplan, excluyendo el [Código de Conducta](/conduct), [Condiciones de Servicio](/legal/terms-of-service) y [Política de Privacidad](/legal/privacy-policy)), que se enumeran por separado en el Acuerdo de los Moderadores. 
 
-**Where can I find these policies?**
+**¿Dónde puedo encontrar estas políticas?**
 
-The referenced policies are currently found on [Meta Stack Exchange](https://meta.stackexchange.com/). All official policies on MSE will be tagged with [the [mod-agreement-policy] tag](https://meta.stackexchange.com/questions/tagged/mod-agreement-policy), which is a staff-only tag, and will have a policy lock applied. It is possible that policies may appear in other places such as the help center or blog. If that happens, links will be added to this page so that they can be easily found.
+Las políticas referenciadas se encuentran actualmente en [Meta Stack Exchange](https://meta.stackexchange.com/). Todas las políticas oficiales de MSE serán etiquetadas con [la etiqueta [mod-agreement-policy]](https://meta.stackexchange.com/questions/tagged/mod-agreement-policy), que es una etiqueta sólo para el personal, y se le aplicará un bloqueo de políticas. Es posible que las políticas aparezcan en otros lugares como el centro de ayuda o el blog. Si eso ocurre, se añadirán enlaces a esta página para que se puedan encontrar fácilmente.
 
-**When and how are new policies introduced by Stack Exchange, Inc.?**
+**¿Cuándo y cómo se introducen nuevas políticas por Stack Exchange, Inc.**
 
-If the need for a new policy arises, it will be written and shared with the [Moderator Council][1] first. Then, it will pass through a process of feedback and possible iterations before being presented to the moderators on their Team. These future policies will then be posted on MSE and receive the [mod-agreement-policy] tag to denote their status.
+Si surge la necesidad de una nueva política, se escribirá y se compartirá con el [Consejo de Moderadores][1] primero. Luego, pasará por un proceso de retroalimentación y posibles iteraciones antes de ser presentada a los moderadores en su Teams. Estas futuras políticas serán publicadas en MSE y recibirán la etiqueta [mod-agreement-policy] para indicar su estatus.
 
-**Is a policy missing, or not relevant any more?**
+**¿Falta una política, o ya no es relevante?**
 
-Sometimes a policy tagged on MSE or contained in the list above is no longer relevant — maybe a new one that replaces it came up, or something else changed that makes it obsolete. Sometimes there's something that's a good candidate for being included in the list but isn't yet. In either case, grab a CM in [The Teachers' Lounge](https://chat.meta.stackexchange.com/rooms/info/1399/the-teachers-lounge) so we can chat about how to proceed. If you're not a moderator, raise a flag on the post and one of the MSE mods will get our attention.
+A veces una política etiquetada en MSE o contenida en la lista anterior ya no es relevante - tal vez una nueva que la reemplace apareció, o algo más cambió que la hace obsoleta. A veces hay algo que es un buen candidato para ser incluido en la lista pero que aún no lo es. En cualquier caso, contacta con un CM en [La sala de profesores](https://chat.meta.stackexchange.com/rooms/info/1399/the-teachers-lounge) para que podamos charlar sobre cómo proceder. Si no eres un moderador, levanta un reporte en la publicación y uno de los mods de MSE se pondrá en contacto.
 
-**Is this tag meant to encompass all policies and rules?**
+*¿Esta etiqueta pretende abarcar todas las políticas y reglas?*
 
-No. This is not intended to be seen as a rulebook. The vast majority of rules and policies on the network are community-defined and company supported. Those policies often vary by site and may not apply to some sites at all. Additionally, many of the policies you find are "best practices" determined through years of experience as a Q&A platform. 
+No. Esto no pretende ser visto como un libro de reglas. La gran mayoría de las reglas y políticas en la red son definidas por la comunidad y apoyadas por la compañía. Esas políticas a menudo varían según el sitio y pueden no aplicarse a algunos sitios en absoluto. Además, muchas de las políticas que encuentras son "mejores prácticas" determinadas a través de años de experiencia como plataforma de preguntas y respuestas. 
 
-While we support these policies, they do not reach the degree where we consider following them to be part of the Moderator Agreement. The tag will be used only on policies that Moderators are agreeing to abide by and enforce in their communities, when applicable. 
+Si bien apoyamos estas políticas, no llegan al grado en que consideramos que seguirlas es parte del Acuerdo de Moderadores. La etiqueta se usará sólo en las políticas que los Moderadores acuerden acatar y hacer cumplir en sus comunidades, cuando corresponda. 
 
 
   [1]: https://meta.stackexchange.com/questions/347104/introducing-the-moderator-council-and-its-first-pro-tempore-representatives
